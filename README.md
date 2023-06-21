@@ -1,5 +1,5 @@
 ### Hi!!! I'm Müller Nocciolli 👋
-### Systems Analyst | Back-end Developer | Freelancer
+### Systems Analyst | Full Stack Developer | Freelancer
 
 - Graduated in Systems Analysis and Development from Estácio de Sá University
 - Studying post-graduation in Software Architecture at Serra Geral College
