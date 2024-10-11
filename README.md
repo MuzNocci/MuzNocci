@@ -2,9 +2,8 @@
 ### Systems Analyst | Full Stack Developer
 
 - Graduated in Systems Analysis and Development from Estácio de Sá University
-- Studying post-graduation in Software Architecture at Serra Geral College
-- Studying Python at UDEMY
-- Studying English at Inglês Sem Neura
+- Postgraduated in Software Architecture at Iguaçu College
+- Studying Python / Django
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" name="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
