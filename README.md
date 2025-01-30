@@ -21,13 +21,13 @@
 
 ### 📫 Connect with me  
 <p align="left">
-  <a href="LINK_DO_LINKEDIN">
+  <a href="https://www.linkedin.com/in/m%C3%BCller-nocciolli/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="LINK_DO_INSTAGRAM">
+  <a href="https://www.instagram.com/muller.nocciolli">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:SEUEMAIL@GMAIL.COM">
+  <a href="mailto:muller.nocciolli@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
