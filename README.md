@@ -4,11 +4,13 @@
 
 - 🎓 **Graduated** in Systems Analysis and Development - *Estácio de Sá University*  
 - 🎓 **Postgraduate** in Software Architecture - *Iguaçu College*  
-- 🚀 **Specializing** in Python / Django  
+- 🚀 **Specialist** in Python / Django  
 
 ### 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
