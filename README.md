@@ -1,12 +1,12 @@
-# Hi! I'm Müller Nocciolli 👋  
+# Olá! I'm Müller Nocciolli.
 
-## 💻 Systems Analyst | Full Stack Developer  
+## 💻 Sou Analista de Sistemas | Desenvolvedor Full Stack  
 
-- 🎓 **Graduated** in Systems Analysis and Development - *Estácio de Sá University*  
-- 🎓 **Postgraduate** in Software Architecture - *Iguaçu College*  
-- 🚀 **Specialist** in Python / Django  
+- 🎓 **Graduado** em Análise e Desenvolvimento de Sistemas - *Universidade Estácio de Sá*  
+- 🎓 **Pós-graduado** em Arquitetura de Software - *Faculdade Iguaçu*  
+- 🚀 **Especialista** em Python / Django  
 
-### 🛠️ Tech Stack  
+### 🛠️ Habilidades Técnicas 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
 
-### 📫 Connect with me  
+### 📫 Fale comigo 
 <p align="left">
   <a href="https://www.linkedin.com/in/m%C3%BCller-nocciolli/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
