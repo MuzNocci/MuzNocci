@@ -1,6 +1,6 @@
-# Olá! I'm Müller Nocciolli.
+# Olá! Sou Müller Nocciolli.
 
-## 💻 Sou Analista de Sistemas | Desenvolvedor Full Stack  
+## 💻 Analista de Sistemas | Desenvolvedor Full Stack  
 
 - 🎓 **Graduado** em Análise e Desenvolvimento de Sistemas - *Universidade Estácio de Sá*  
 - 🎓 **Pós-graduado** em Arquitetura de Software - *Faculdade Iguaçu*  
